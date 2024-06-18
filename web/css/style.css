@@ -317,8 +317,11 @@ h3.tittle-w3l:after {
 
 /*-- //grids--*/
 /*-- services-agile-w3l --*/
+/* General Grid Style */
 .services-agile-w3l-right-grid {
     text-align: center;
+    padding: 5em 0;
+    position: relative;
 }
 
 .services-agile-w3l-icon-info h5 {
@@ -342,74 +345,35 @@ h3.tittle-w3l:after {
     color: #2399eb;
 }
 
-.services-agile-w3l-right-grid {
-    padding: 5em 0;
-}
-
 .services-agile-w3l-right-grid.grid-1 {
-    background: url(../images/new1.png) no-repeat 0px 0px;
-    
-   
+    background: url('../images/new1.png') no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-2 {
-    background: url(../images/perfume3.png) no-repeat 0px 0px;
-  
-   
+    background: url('../images/perfume3.png') no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-3 {
-    background: url(../images/new2.png) no-repeat 0px 0px;
-    
-  
+    background: url('../images/new2.png') no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-4 {
-    background: url(../images/shk2.png) no-repeat 0px 0px;
-    
-  
+    background: url('../images/shk2.png') no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-5 {
-    background: url(../images/water3.jpg) no-repeat 0px 0px;
-    
+    background: url('../images/water3.jpg') no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-6 {
-    background: url(../images/fkkkk.png) no-repeat 0px 0px;
-    
+    background: url('../images/fkkkk.png') no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
 }
-
 /*-- //services-agile-w3l --*/
 .book-appointment {
     padding: 4em 0;
