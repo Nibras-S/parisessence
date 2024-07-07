@@ -346,32 +346,61 @@ h3.tittle-w3l:after {
 }
 
 .services-agile-w3l-right-grid.grid-1 {
-    background: url('../images/b1.jpg') no-repeat center center;    
+    background: url('../images/r1.png') no-repeat center center;    
     background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-2 {
-    background: url('../images/b2.jpg') no-repeat center center; 
+    background: url('../images/r2.jpg') no-repeat center center; 
     background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-3 {
-    background: url('../images/b3.png') no-repeat center center;
+    background: url('../images/r3.png') no-repeat center center;
     background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-4 {
-    background: url('../images/b4.jpg') no-repeat center center;
+    background: url('../images/r4.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-5 {
-    background: url('../images/b5.jpg') no-repeat center center;
+    background: url('../images/r5.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .services-agile-w3l-right-grid.grid-6 {
-    background: url('../images/b6.png') no-repeat center center;
+    background: url('../images/r6.jpg') no-repeat center center;
+    background-size: cover;
+}
+.services-agile-w3l-right-grid.grid-7 {
+    background: url('../images/r7.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.services-agile-w3l-right-grid.grid-8 {
+    background: url('../images/r8.png') no-repeat center center;
+    background-size: cover;
+}
+
+.services-agile-w3l-right-grid.grid-9 {
+    background: url('../images/r9.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.services-agile-w3l-right-grid.grid-10 {
+    background: url('../images/r10.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.services-agile-w3l-right-grid.grid-11 {
+    background: url('../images/r11.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.services-agile-w3l-right-grid.grid-12 {
+    background: url('../images/r12.png') no-repeat center center;
     background-size: cover;
 }
 /*-- //services-agile-w3l --*/
